@@ -1,2 +1,2 @@
-# Automated_game_playing_bot
-An automated bot that can play a clicks game!
+# Automated game playing bot
+An automated bot that can play a clicks game using Selenium Framework!
